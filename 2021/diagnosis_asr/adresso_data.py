@@ -5,8 +5,6 @@ class ADReSSoData:
     def __init__(self, data_directory=DATA_DIR):
         self.data_directory = data_directory
         self.model = Model("model")
-        self.asr_model = TransformerASR.from_hparams(source="speechbrain/asr-transformer-transformerlm-librispeech",
-                                                     savedir="pretrained_models/asr-transformer-transformerlm-librispeech")
         self.speaker_data = self.get_data()
 
     def get_participant_data(self, df):
@@ -44,21 +42,22 @@ class ADReSSoData:
         return audio_data
 
     def get_data(self):
-        speaker_file = 'speaker_data_phoneme_rate.csv'
+        speaker_file = 'speaker_data_segments.csv'
         # speaker_data = pd.read_csv('speaker_data_silence_old.csv')
         speaker_data = self.get_score_data()
         speaker_data['segments'] = speaker_data['speaker'].map(self.get_segmentation_data())
-        speaker_data['audio'] = speaker_data['speaker'].map((self.get_audio_paths()))
-        transcript_data, phoneme_data, phoneme_rate_data = self.get_transcripts(speaker_data)
-        speaker_data['transcript'] = speaker_data['speaker'].map((transcript_data))
-        speaker_data['phonemes'] = speaker_data['speaker'].map((phoneme_data))
-        speaker_data['phoneme_rate'] = speaker_data['speaker'].map((phoneme_rate_data))
-        # speaker_data['silences'] = speaker_data['speaker'].map((self.get_silence(speaker_data)))
-        # speaker_data['n_short_long_pause'] = speaker_data['silences'].apply(
-        #     lambda x: self.get_pauses(vad_arrays=literal_eval(x),
-        #                               short_pause_length=150,
-        #                               long_pause_length=1000))
-        speaker_data[['speaker', 'mmse', 'dx', 'transcript', 'phonemes', 'phoneme_rate']].to_csv(speaker_file)
+        # speaker_data['audio'] = speaker_data['speaker'].map((self.get_audio_paths()))
+        # transcript_data, phoneme_data, phoneme_rate_data = self.get_transcripts(speaker_data)
+        # speaker_data['transcript'] = speaker_data['speaker'].map((transcript_data))
+        # speaker_data['phonemes'] = speaker_data['speaker'].map((phoneme_data))
+        # speaker_data['phoneme_rate'] = speaker_data['speaker'].map((phoneme_rate_data))
+        # # speaker_data['silences'] = speaker_data['speaker'].map((self.get_silence(speaker_data)))
+        # # speaker_data['n_short_long_pause'] = speaker_data['silences'].apply(
+        # #     lambda x: self.get_pauses(vad_arrays=literal_eval(x),
+        # #                               short_pause_length=150,
+        # #                               long_pause_length=1000))
+        # speaker_data[['speaker', 'mmse', 'dx', 'transcript', 'phonemes', 'phoneme_rate']].to_csv(speaker_file)
+        speaker_data[['speaker', 'segments']].to_csv(speaker_file)
         return speaker_data
 
     def clean_up(self, text):
@@ -75,22 +74,50 @@ class ADReSSoData:
             speaker, segments, audio = row
             transcript = []
             phonemes = []
-            phoneme_rates = []
+            phoneme_count = 0
+            spkr_duration = 0
             for fname in self.segment_wav(speaker, segments, audio):
                 try:
-                    result = self.clean_up(self.asr_model.transcribe_file(fname))
+                    result = self.clean_up(self.transcribe_file(fname))
                     duration = self.get_duration(fname)
                     ph = self.get_phonemes(result)
-                    phoneme_rate = len(ph.split()) / duration
+                    phoneme_count += len(ph.split())
+                    spkr_duration += duration
                     transcript.append(result)
                     phonemes.append(ph)
-                    phoneme_rates.append(phoneme_rate)
                 except:
                     pass
             transcript_data[speaker] = transcript
             phoneme_data[speaker] = phonemes
-            phoneme_rate_data[speaker] = phoneme_rate
+            phoneme_rate_data[speaker] = phoneme_count / spkr_duration if spkr_duration != 0 else 0
         return transcript_data, phoneme_data, phoneme_rate_data
+
+    def transcribe_file(self, speech_file):
+        full_result = ""
+        """Transcribe the given audio file."""
+
+        client = speech.SpeechClient()
+
+        with io.open(speech_file, "rb") as audio_file:
+            content = audio_file.read()
+
+        audio = speech.RecognitionAudio(content=content)
+        config = speech.RecognitionConfig(encoding=speech.RecognitionConfig.AudioEncoding.LINEAR16,
+                                          sample_rate_hertz=16000,
+                                          language_code="en-US",
+                                          enable_automatic_punctuation=True,
+                                          model="default"
+                                          )
+
+        response = client.recognize(config=config, audio=audio)
+
+        # Each result is for a consecutive portion of the audio. Iterate through
+        # them to get the transcripts for the entire audio file.
+        for result in response.results:
+            # The first alternative is the most likely one for this portion.
+            full_result += result.alternatives[0].transcript
+            # print(u"Transcript: {}".format(result.alternatives[0].transcript))
+        return full_result
 
     def get_duration(self, fname):
         with contextlib.closing(wave.open(fname, 'r')) as f:
@@ -112,9 +139,10 @@ class ADReSSoData:
     def segment_wav(self, speaker, segments, audio):
         segmented_audio = []
         audio_file = AudioSegment.from_wav(audio)
+        info = mediainfo(audio)
         audio_file = audio_file.set_frame_rate(16000)
         for begin, end in segments:
-            segment_path = './tmp/{}_{}_{}.wav'.format(speaker, begin, end)
+            segment_path = 'tmp/{}_{}_{}.wav'.format(speaker, begin, end)
             audio_segment = audio_file[begin:end]
             audio_segment.export(segment_path, format="wav")
             # command = "ffmpeg -y -i {} -acodec pcm_s16le -b:a 256k -ac 1 -ar 16000 {}".format(segment_path,

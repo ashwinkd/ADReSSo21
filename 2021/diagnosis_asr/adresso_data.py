@@ -106,7 +106,8 @@ class ADReSSoData:
                                           sample_rate_hertz=16000,
                                           language_code="en-US",
                                           enable_automatic_punctuation=True,
-                                          model="default"
+                                          use_enhanced=True,
+                                          model="phone_call",
                                           )
 
         response = client.recognize(config=config, audio=audio)

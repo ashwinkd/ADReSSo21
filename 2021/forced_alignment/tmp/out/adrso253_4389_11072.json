@@ -1,0 +1,164 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.960",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girls"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.520",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "holding"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "3.080",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "3.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  },
+  {
+   "begin": "3.320",
+   "children": [],
+   "end": "3.440",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  },
+  {
+   "begin": "3.440",
+   "children": [],
+   "end": "4.000",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "because"
+   ]
+  },
+  {
+   "begin": "4.000",
+   "children": [],
+   "end": "4.120",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "he"
+   ]
+  },
+  {
+   "begin": "4.120",
+   "children": [],
+   "end": "4.400",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "4.400",
+   "children": [],
+   "end": "5.080",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "gotten"
+   ]
+  },
+  {
+   "begin": "5.080",
+   "children": [],
+   "end": "5.480",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "one"
+   ]
+  },
+  {
+   "begin": "5.480",
+   "children": [],
+   "end": "5.680",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "5.680",
+   "children": [],
+   "end": "6.120",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "6.120",
+   "children": [],
+   "end": "6.520",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "wants"
+   ]
+  },
+  {
+   "begin": "6.520",
+   "children": [],
+   "end": "6.680",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "it"
+   ]
+  }
+ ]
+}

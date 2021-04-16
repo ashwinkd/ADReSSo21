@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "walk"
+   ]
+  },
+  {
+   "begin": "0.960",
+   "children": [],
+   "end": "2.480",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "outside"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "3.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "trees"
+   ]
+  },
+  {
+   "begin": "3.200",
+   "children": [],
+   "end": "3.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "3.680",
+   "children": [],
+   "end": "4.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "grass"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.280",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "they"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "3.720",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "ladder"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.720",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "4.720",
+   "children": [],
+   "end": "4.960",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "standing"
+   ]
+  },
+  {
+   "begin": "5.480",
+   "children": [],
+   "end": "5.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "5.760",
+   "children": [],
+   "end": "6.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "6.320",
+   "children": [],
+   "end": "6.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "beginning"
+   ]
+  },
+  {
+   "begin": "6.680",
+   "children": [],
+   "end": "6.920",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "6.920",
+   "children": [],
+   "end": "8.040",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "crawl"
+   ]
+  }
+ ]
+}

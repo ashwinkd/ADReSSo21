@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.120",
+   "children": [],
+   "end": "0.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "0.480",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "not"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "1.000",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "even"
+   ]
+  },
+  {
+   "begin": "1.000",
+   "children": [],
+   "end": "2.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "watching"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "3.040",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "watch"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.240",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "oceans"
+   ]
+  },
+  {
+   "begin": "4.240",
+   "children": [],
+   "end": "4.960",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.320",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "runs"
+   ]
+  },
+  {
+   "begin": "5.320",
+   "children": [],
+   "end": "6.240",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

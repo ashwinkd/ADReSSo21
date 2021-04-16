@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "girls"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.480",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "reaching"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "3.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  },
+  {
+   "begin": "3.800",
+   "children": [],
+   "end": "4.160",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "their"
+   ]
+  },
+  {
+   "begin": "4.160",
+   "children": [],
+   "end": "4.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "hands"
+   ]
+  }
+ ]
+}

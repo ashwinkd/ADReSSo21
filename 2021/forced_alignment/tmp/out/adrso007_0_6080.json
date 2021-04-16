@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "another"
+   ]
+  },
+  {
+   "begin": "0.400",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "standing"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "by"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "3.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "3.280",
+   "children": [],
+   "end": "3.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "kyle"
+   ]
+  },
+  {
+   "begin": "3.640",
+   "children": [],
+   "end": "3.760",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "looks"
+   ]
+  },
+  {
+   "begin": "3.760",
+   "children": [],
+   "end": "4.000",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "4.000",
+   "children": [],
+   "end": "4.440",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "lost"
+   ]
+  },
+  {
+   "begin": "4.440",
+   "children": [],
+   "end": "4.480",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "4.480",
+   "children": [],
+   "end": "4.880",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "thought"
+   ]
+  },
+  {
+   "begin": "4.880",
+   "children": [],
+   "end": "5.360",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "wiping"
+   ]
+  },
+  {
+   "begin": "5.360",
+   "children": [],
+   "end": "5.560",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "5.560",
+   "children": [],
+   "end": "6.080",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "dish"
+   ]
+  }
+ ]
+}

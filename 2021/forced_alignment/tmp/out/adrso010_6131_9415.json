@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "1.840",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.200",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "2.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "3.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

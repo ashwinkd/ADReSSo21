@@ -1,0 +1,24 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.680",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "kitchen"
+   ]
+  },
+  {
+   "begin": "3.680",
+   "children": [],
+   "end": "4.840",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "scene"
+   ]
+  }
+ ]
+}

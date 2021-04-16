@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "0.120",
+   "children": [],
+   "end": "0.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "0.200",
+   "children": [],
+   "end": "0.720",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "floor"
+   ]
+  }
+ ]
+}

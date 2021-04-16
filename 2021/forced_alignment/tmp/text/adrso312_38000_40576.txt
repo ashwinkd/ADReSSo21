@@ -1,0 +1,3 @@
+cupboard
+doors
+open

@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "0.040",
+   "children": [],
+   "end": "0.400",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "0.400",
+   "children": [],
+   "end": "0.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "1.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "sleeveless"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "1.600",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "dress"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "1.680",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "1.680",
+   "children": [],
+   "end": "1.960",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "short"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.320",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "hair"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "where"
+   ]
+  },
+  {
+   "begin": "0.400",
+   "children": [],
+   "end": "3.400",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "3.400",
+   "children": [],
+   "end": "3.920",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "drying"
+   ]
+  },
+  {
+   "begin": "3.920",
+   "children": [],
+   "end": "4.600",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "4.600",
+   "children": [],
+   "end": "5.320",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "5.320",
+   "children": [],
+   "end": "5.560",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "5.560",
+   "children": [],
+   "end": "6.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "6.280",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "6.280",
+   "children": [],
+   "end": "6.600",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "6.600",
+   "children": [],
+   "end": "7.240",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "out"
+   ]
+  },
+  {
+   "begin": "7.240",
+   "children": [],
+   "end": "7.800",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  }
+ ]
+}

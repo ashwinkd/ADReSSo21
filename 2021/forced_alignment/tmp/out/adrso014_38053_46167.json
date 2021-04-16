@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "1.080",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "2.040",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "woman"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "2.240",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "3.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "oblivious"
+   ]
+  },
+  {
+   "begin": "3.280",
+   "children": [],
+   "end": "3.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "3.640",
+   "children": [],
+   "end": "4.520",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "4.960",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "fact"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.680",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "5.680",
+   "children": [],
+   "end": "6.320",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.320",
+   "children": [],
+   "end": "6.680",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "6.680",
+   "children": [],
+   "end": "7.200",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "7.200",
+   "children": [],
+   "end": "7.440",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "7.440",
+   "children": [],
+   "end": "8.080",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

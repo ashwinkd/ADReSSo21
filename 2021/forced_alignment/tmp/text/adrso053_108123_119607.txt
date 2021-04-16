@@ -1,0 +1,7 @@
+door
+edge
+guards
+open
+on
+the
+cupboards

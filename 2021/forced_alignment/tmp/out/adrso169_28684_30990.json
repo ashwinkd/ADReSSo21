@@ -1,0 +1,24 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "windows"
+   ]
+  },
+  {
+   "begin": "0.960",
+   "children": [],
+   "end": "2.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "theres"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "3.920",
+   "children": [],
+   "end": "4.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  },
+  {
+   "begin": "4.560",
+   "children": [],
+   "end": "6.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  },
+  {
+   "begin": "6.840",
+   "children": [],
+   "end": "7.160",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "7.160",
+   "children": [],
+   "end": "7.800",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "kitchen"
+   ]
+  }
+ ]
+}

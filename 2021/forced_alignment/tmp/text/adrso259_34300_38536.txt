@@ -1,0 +1,5 @@
+play
+cookie
+jar
+doors
+open

@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "curtains"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "5.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "strong"
+   ]
+  },
+  {
+   "begin": "5.160",
+   "children": [],
+   "end": "8.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "wooden"
+   ]
+  },
+  {
+   "begin": "8.240",
+   "children": [],
+   "end": "9.520",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "bridge"
+   ]
+  },
+  {
+   "begin": "9.520",
+   "children": [],
+   "end": "9.960",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "9.960",
+   "children": [],
+   "end": "10.880",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "10.880",
+   "children": [],
+   "end": "11.760",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "wind"
+   ]
+  }
+ ]
+}

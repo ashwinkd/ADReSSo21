@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "your"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "2.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "gar"
+   ]
+  },
+  {
+   "begin": "2.320",
+   "children": [],
+   "end": "2.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.720",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "cup"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "5.200",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "cups"
+   ]
+  },
+  {
+   "begin": "5.200",
+   "children": [],
+   "end": "5.360",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "for"
+   ]
+  },
+  {
+   "begin": "5.360",
+   "children": [],
+   "end": "7.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "coffee"
+   ]
+  },
+  {
+   "begin": "7.320",
+   "children": [],
+   "end": "7.560",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "or"
+   ]
+  },
+  {
+   "begin": "7.560",
+   "children": [],
+   "end": "8.760",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "something"
+   ]
+  },
+  {
+   "begin": "8.760",
+   "children": [],
+   "end": "9.240",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "9.240",
+   "children": [],
+   "end": "9.640",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  }
+ ]
+}

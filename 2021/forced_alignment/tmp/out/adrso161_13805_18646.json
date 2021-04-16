@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.600",
+   "children": [],
+   "end": "0.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.640",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "into"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.640",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "0.760",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "0.760",
+   "children": [],
+   "end": "1.520",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "1.960",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "down"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.520",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "onto"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.600",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "4.840",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "floor"
+   ]
+  }
+ ]
+}

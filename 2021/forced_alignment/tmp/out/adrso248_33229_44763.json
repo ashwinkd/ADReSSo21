@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "view"
+   ]
+  },
+  {
+   "begin": "3.560",
+   "children": [],
+   "end": "4.440",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "4.440",
+   "children": [],
+   "end": "5.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "5.440",
+   "children": [],
+   "end": "5.880",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "5.880",
+   "children": [],
+   "end": "6.440",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "through"
+   ]
+  },
+  {
+   "begin": "6.440",
+   "children": [],
+   "end": "8.360",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "8.360",
+   "children": [],
+   "end": "9.960",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "door"
+   ]
+  },
+  {
+   "begin": "9.960",
+   "children": [],
+   "end": "11.520",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "outside"
+   ]
+  }
+ ]
+}

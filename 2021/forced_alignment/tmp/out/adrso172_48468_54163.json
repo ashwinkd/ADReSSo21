@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.880",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "dish"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.680",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "towels"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "4.200",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "4.680",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "are"
+   ]
+  },
+  {
+   "begin": "4.680",
+   "children": [],
+   "end": "4.800",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "4.800",
+   "children": [],
+   "end": "5.680",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "time"
+   ]
+  }
+ ]
+}

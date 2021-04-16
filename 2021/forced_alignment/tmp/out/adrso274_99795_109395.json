@@ -1,0 +1,204 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.800",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.520",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "1.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "3.640",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "3.640",
+   "children": [],
+   "end": "3.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "if"
+   ]
+  },
+  {
+   "begin": "3.760",
+   "children": [],
+   "end": "3.960",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "3.960",
+   "children": [],
+   "end": "4.280",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "see"
+   ]
+  },
+  {
+   "begin": "4.280",
+   "children": [],
+   "end": "4.640",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.640",
+   "children": [],
+   "end": "4.760",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "upside"
+   ]
+  },
+  {
+   "begin": "4.760",
+   "children": [],
+   "end": "5.440",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "5.440",
+   "children": [],
+   "end": "5.840",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "around"
+   ]
+  },
+  {
+   "begin": "5.840",
+   "children": [],
+   "end": "6.720",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.720",
+   "children": [],
+   "end": "7.680",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "rest"
+   ]
+  },
+  {
+   "begin": "7.680",
+   "children": [],
+   "end": "8.120",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "8.120",
+   "children": [],
+   "end": "8.720",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "8.720",
+   "children": [],
+   "end": "8.880",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "back"
+   ]
+  },
+  {
+   "begin": "8.880",
+   "children": [],
+   "end": "8.880",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "8.880",
+   "children": [],
+   "end": "9.120",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "9.120",
+   "children": [],
+   "end": "9.600",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  }
+ ]
+}

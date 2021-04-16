@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "now"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "2.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "3.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "see"
+   ]
+  },
+  {
+   "begin": "3.280",
+   "children": [],
+   "end": "3.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "3.360",
+   "children": [],
+   "end": "3.440",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "big"
+   ]
+  },
+  {
+   "begin": "3.440",
+   "children": [],
+   "end": "3.920",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "plate"
+   ]
+  },
+  {
+   "begin": "3.920",
+   "children": [],
+   "end": "4.160",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "4.160",
+   "children": [],
+   "end": "5.280",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "couple"
+   ]
+  },
+  {
+   "begin": "5.280",
+   "children": [],
+   "end": "5.680",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "sausage"
+   ]
+  },
+  {
+   "begin": "5.680",
+   "children": [],
+   "end": "6.400",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "life"
+   ]
+  }
+ ]
+}

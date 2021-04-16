@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "it"
+   ]
+  },
+  {
+   "begin": "0.080",
+   "children": [],
+   "end": "0.360",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "really"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "1.040",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "hurt"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.680",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "herself"
+   ]
+  }
+ ]
+}

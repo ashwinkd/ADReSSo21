@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "kid"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "children": [],
+   "end": "0.480",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "isnt"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "1.320",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "falling"
+   ]
+  },
+  {
+   "begin": "1.320",
+   "children": [],
+   "end": "1.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "off"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "3.480",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "school"
+   ]
+  }
+ ]
+}

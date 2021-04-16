@@ -1,0 +1,124 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "0.400",
+   "children": [],
+   "end": "1.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "2.600",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "drawing"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "2.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "2.840",
+   "children": [],
+   "end": "3.120",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "dish"
+   ]
+  },
+  {
+   "begin": "3.120",
+   "children": [],
+   "end": "3.400",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "3.400",
+   "children": [],
+   "end": "3.600",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "4.120",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "tea"
+   ]
+  },
+  {
+   "begin": "4.120",
+   "children": [],
+   "end": "4.640",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "plates"
+   ]
+  },
+  {
+   "begin": "4.640",
+   "children": [],
+   "end": "4.800",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "4.800",
+   "children": [],
+   "end": "5.000",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "5.000",
+   "children": [],
+   "end": "5.840",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "pecan"
+   ]
+  }
+ ]
+}

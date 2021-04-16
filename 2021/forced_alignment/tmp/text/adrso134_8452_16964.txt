@@ -1,0 +1,5 @@
+voice
+text
+touching
+a
+k

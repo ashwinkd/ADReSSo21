@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "he"
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "1.960",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "got"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "carol"
+   ]
+  }
+ ]
+}

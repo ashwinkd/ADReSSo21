@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "just"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "0.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "rest"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "0.680",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "1.080",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "2.640",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "3.640",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "sidewalk"
+   ]
+  }
+ ]
+}

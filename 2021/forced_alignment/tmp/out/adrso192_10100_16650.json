@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "children": [],
+   "end": "1.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "under"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "2.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.200",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "3.200",
+   "children": [],
+   "end": "3.840",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "3.840",
+   "children": [],
+   "end": "4.880",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "pick"
+   ]
+  },
+  {
+   "begin": "4.880",
+   "children": [],
+   "end": "6.200",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "him"
+   ]
+  },
+  {
+   "begin": "6.200",
+   "children": [],
+   "end": "6.520",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  }
+ ]
+}

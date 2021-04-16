@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "shrubbery"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "outside"
+   ]
+  },
+  {
+   "begin": "3.920",
+   "children": [],
+   "end": "4.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "4.280",
+   "children": [],
+   "end": "5.000",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "5.000",
+   "children": [],
+   "end": "6.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "6.400",
+   "children": [],
+   "end": "7.120",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "next"
+   ]
+  },
+  {
+   "begin": "7.120",
+   "children": [],
+   "end": "7.440",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "door"
+   ]
+  }
+ ]
+}

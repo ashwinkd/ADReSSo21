@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "boys"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "climbing"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "videos"
+   ]
+  },
+  {
+   "begin": "3.560",
+   "children": [],
+   "end": "4.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "4.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "5.280",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "fall"
+   ]
+  }
+ ]
+}

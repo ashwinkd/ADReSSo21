@@ -1,0 +1,164 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.160",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "what"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "2.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.720",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "football"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.440",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "division"
+   ]
+  },
+  {
+   "begin": "4.440",
+   "children": [],
+   "end": "5.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "street"
+   ]
+  },
+  {
+   "begin": "5.520",
+   "children": [],
+   "end": "5.880",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "or"
+   ]
+  },
+  {
+   "begin": "5.880",
+   "children": [],
+   "end": "6.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "6.400",
+   "children": [],
+   "end": "7.320",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "7.320",
+   "children": [],
+   "end": "8.320",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "hat"
+   ]
+  },
+  {
+   "begin": "8.320",
+   "children": [],
+   "end": "8.520",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "8.520",
+   "children": [],
+   "end": "8.520",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "8.520",
+   "children": [],
+   "end": "8.600",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "rd"
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "8.600",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "off"
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "8.600",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "9.640",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "9.640",
+   "children": [],
+   "end": "10.360",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "stool"
+   ]
+  }
+ ]
+}

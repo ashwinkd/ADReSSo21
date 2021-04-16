@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "putting"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "children": [],
+   "end": "0.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "his"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "1.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "1.960",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.160",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "jar"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "children": [],
+   "end": "3.000",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.200",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.200",
+   "children": [],
+   "end": "3.240",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "top"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.760",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "shelf"
+   ]
+  }
+ ]
+}

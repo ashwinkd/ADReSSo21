@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "voice"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "text"
+   ]
+  },
+  {
+   "begin": "6.160",
+   "children": [],
+   "end": "7.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "touching"
+   ]
+  },
+  {
+   "begin": "7.280",
+   "children": [],
+   "end": "7.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "7.800",
+   "children": [],
+   "end": "8.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "k"
+   ]
+  }
+ ]
+}

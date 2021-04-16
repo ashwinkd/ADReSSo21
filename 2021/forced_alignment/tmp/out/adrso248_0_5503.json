@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "are"
+   ]
+  },
+  {
+   "begin": "3.960",
+   "children": [],
+   "end": "4.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.320",
+   "children": [],
+   "end": "4.680",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girls"
+   ]
+  },
+  {
+   "begin": "4.680",
+   "children": [],
+   "end": "5.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "5.200",
+   "children": [],
+   "end": "5.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

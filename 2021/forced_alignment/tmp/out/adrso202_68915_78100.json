@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.840",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "doris"
+   ]
+  },
+  {
+   "begin": "3.840",
+   "children": [],
+   "end": "5.480",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "jean"
+   ]
+  },
+  {
+   "begin": "5.480",
+   "children": [],
+   "end": "8.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "campbells"
+   ]
+  },
+  {
+   "begin": "8.880",
+   "children": [],
+   "end": "9.160",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "soup"
+   ]
+  }
+ ]
+}

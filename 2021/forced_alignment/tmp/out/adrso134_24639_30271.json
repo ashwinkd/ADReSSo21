@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "waters"
+   ]
+  },
+  {
+   "begin": "2.000",
+   "children": [],
+   "end": "2.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "falling"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "blowing"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "3.880",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  },
+  {
+   "begin": "3.880",
+   "children": [],
+   "end": "4.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.360",
+   "children": [],
+   "end": "5.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  }
+ ]
+}

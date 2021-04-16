@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.600",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "kid"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "2.120",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "2.480",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "almost"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "2.920",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "upset"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.040",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.240",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "3.240",
+   "children": [],
+   "end": "4.280",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "stool"
+   ]
+  }
+ ]
+}

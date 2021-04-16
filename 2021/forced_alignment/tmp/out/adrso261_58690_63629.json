@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "kids"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.520",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "phone"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "4.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "off"
+   ]
+  },
+  {
+   "begin": "4.080",
+   "children": [],
+   "end": "4.920",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "bluetooth"
+   ]
+  }
+ ]
+}

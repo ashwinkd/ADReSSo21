@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "standing"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.880",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "stool"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.600",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "3.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "tipping"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

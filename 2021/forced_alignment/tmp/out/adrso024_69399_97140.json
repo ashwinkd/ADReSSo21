@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.640",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "5.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "5.200",
+   "children": [],
+   "end": "5.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "may"
+   ]
+  },
+  {
+   "begin": "5.520",
+   "children": [],
+   "end": "17.960",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "be"
+   ]
+  },
+  {
+   "begin": "17.960",
+   "children": [],
+   "end": "21.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "saying"
+   ]
+  },
+  {
+   "begin": "21.840",
+   "children": [],
+   "end": "23.120",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "say"
+   ]
+  },
+  {
+   "begin": "23.120",
+   "children": [],
+   "end": "24.520",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "hahaha"
+   ]
+  },
+  {
+   "begin": "24.520",
+   "children": [],
+   "end": "25.240",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "25.240",
+   "children": [],
+   "end": "26.320",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "told"
+   ]
+  },
+  {
+   "begin": "26.320",
+   "children": [],
+   "end": "26.480",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "26.480",
+   "children": [],
+   "end": "27.720",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "so"
+   ]
+  }
+ ]
+}

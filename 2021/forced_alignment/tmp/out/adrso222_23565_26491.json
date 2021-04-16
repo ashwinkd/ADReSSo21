@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.080",
+   "children": [],
+   "end": "0.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "children": [],
+   "end": "0.360",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "mother"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.480",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "2.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "2.040",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "2.160",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.920",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "floor"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.880",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.520",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "4.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "4.000",
+   "children": [],
+   "end": "4.960",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "said"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "theyre"
+   ]
+  },
+  {
+   "begin": "5.280",
+   "children": [],
+   "end": "6.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "grabbing"
+   ]
+  },
+  {
+   "begin": "6.000",
+   "children": [],
+   "end": "6.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.320",
+   "children": [],
+   "end": "6.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "6.760",
+   "children": [],
+   "end": "7.400",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "jar"
+   ]
+  }
+ ]
+}

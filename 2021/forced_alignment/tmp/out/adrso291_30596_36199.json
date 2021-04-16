@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.200",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.200",
+   "children": [],
+   "end": "0.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "mother"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.840",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "kristen"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "wiig"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "2.440",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "2.720",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "at"
+   ]
+  },
+  {
+   "begin": "2.720",
+   "children": [],
+   "end": "3.160",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.160",
+   "children": [],
+   "end": "3.520",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "4.920",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "4.920",
+   "children": [],
+   "end": "5.600",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

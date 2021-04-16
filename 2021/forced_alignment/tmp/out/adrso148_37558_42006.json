@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.480",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "it"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "0.920",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "0.920",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "0.960",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "be"
+   ]
+  },
+  {
+   "begin": "0.960",
+   "children": [],
+   "end": "1.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "1.000",
+   "children": [],
+   "end": "2.280",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "total"
+   ]
+  },
+  {
+   "begin": "2.280",
+   "children": [],
+   "end": "3.080",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "catastrophe"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "3.320",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "mother"
+   ]
+  },
+  {
+   "begin": "3.320",
+   "children": [],
+   "end": "3.520",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "3.520",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "reason"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "3.760",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "3.760",
+   "children": [],
+   "end": "4.160",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "4.160",
+   "children": [],
+   "end": "4.440",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "spa"
+   ]
+  }
+ ]
+}

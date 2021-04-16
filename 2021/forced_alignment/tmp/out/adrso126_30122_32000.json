@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "abortion"
+   ]
+  },
+  {
+   "begin": "0.600",
+   "children": [],
+   "end": "1.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "1.160",
+   "children": [],
+   "end": "1.600",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "drying"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "1.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  }
+ ]
+}

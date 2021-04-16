@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.360",
+   "children": [],
+   "end": "3.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "rooms"
+   ]
+  },
+  {
+   "begin": "3.800",
+   "children": [],
+   "end": "4.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "wife"
+   ]
+  },
+  {
+   "begin": "4.560",
+   "children": [],
+   "end": "4.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "4.840",
+   "children": [],
+   "end": "5.200",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "edition"
+   ]
+  }
+ ]
+}

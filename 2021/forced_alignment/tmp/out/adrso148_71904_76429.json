@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.280",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "0.280",
+   "children": [],
+   "end": "0.760",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "jar"
+   ]
+  },
+  {
+   "begin": "0.760",
+   "children": [],
+   "end": "0.840",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "do"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.080",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "want"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.400",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "me"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "2.080",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "tell"
+   ]
+  },
+  {
+   "begin": "2.080",
+   "children": [],
+   "end": "2.880",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.160",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "all"
+   ]
+  },
+  {
+   "begin": "3.160",
+   "children": [],
+   "end": "3.360",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "those"
+   ]
+  },
+  {
+   "begin": "3.360",
+   "children": [],
+   "end": "3.720",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "things"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.080",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "4.080",
+   "children": [],
+   "end": "4.520",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  }
+ ]
+}

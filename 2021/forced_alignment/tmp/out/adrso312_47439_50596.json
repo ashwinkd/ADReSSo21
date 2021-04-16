@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.880",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "curtains"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "2.320",
+   "children": [],
+   "end": "2.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "3.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  }
+ ]
+}

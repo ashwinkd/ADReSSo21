@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.720",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "autos"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.080",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "part"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "5.120",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "5.120",
+   "children": [],
+   "end": "5.720",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "5.720",
+   "children": [],
+   "end": "6.760",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "6.760",
+   "children": [],
+   "end": "7.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "or"
+   ]
+  },
+  {
+   "begin": "7.320",
+   "children": [],
+   "end": "8.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "at"
+   ]
+  },
+  {
+   "begin": "8.320",
+   "children": [],
+   "end": "8.880",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "another"
+   ]
+  },
+  {
+   "begin": "8.880",
+   "children": [],
+   "end": "9.800",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  }
+ ]
+}

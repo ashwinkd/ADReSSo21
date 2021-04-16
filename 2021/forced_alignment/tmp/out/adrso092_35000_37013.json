@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.240",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "talk"
+   ]
+  },
+  {
+   "begin": "0.240",
+   "children": [],
+   "end": "0.680",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "0.960",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "copper"
+   ]
+  },
+  {
+   "begin": "0.960",
+   "children": [],
+   "end": "1.400",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "1.680",
+   "children": [],
+   "end": "2.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "play"
+   ]
+  }
+ ]
+}

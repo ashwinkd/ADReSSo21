@@ -23,5 +23,4 @@ def align(audio_file, transcript):
 
     command = 'python -m aeneas.tools.execute_task {} {} "{}" {}'.format(audio_file, text_file, CONFIG, out_file)
     print(command)
-    # os.system(command)
-    exit(0)
+    os.system(command)

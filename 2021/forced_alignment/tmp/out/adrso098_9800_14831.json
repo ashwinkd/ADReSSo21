@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.680",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "going"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "2.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "home"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "2.960",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "falling"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "3.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "out"
+   ]
+  },
+  {
+   "begin": "3.480",
+   "children": [],
+   "end": "3.680",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "3.680",
+   "children": [],
+   "end": "3.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.360",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "chair"
+   ]
+  },
+  {
+   "begin": "4.360",
+   "children": [],
+   "end": "4.960",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "when"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "4.960",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "hes"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "4.960",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "putting"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "4.960",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "4.960",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.000",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "picture"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.160",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "mother"
+   ]
+  },
+  {
+   "begin": "1.160",
+   "children": [],
+   "end": "2.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "2.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.960",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "3.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "3.400",
+   "children": [],
+   "end": "3.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "out"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "3.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.040",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.040",
+   "children": [],
+   "end": "4.520",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "4.680",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "4.680",
+   "children": [],
+   "end": "4.960",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "stein"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.240",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "down"
+   ]
+  },
+  {
+   "begin": "5.240",
+   "children": [],
+   "end": "5.360",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "5.360",
+   "children": [],
+   "end": "5.720",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "5.720",
+   "children": [],
+   "end": "6.280",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "floor"
+   ]
+  }
+ ]
+}

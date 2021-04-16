@@ -1,0 +1,154 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.760",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "mom"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.360",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "2.840",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "2.840",
+   "children": [],
+   "end": "3.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.280",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.280",
+   "children": [],
+   "end": "3.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.480",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "4.480",
+   "children": [],
+   "end": "4.840",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  },
+  {
+   "begin": "4.840",
+   "children": [],
+   "end": "5.120",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "just"
+   ]
+  },
+  {
+   "begin": "5.120",
+   "children": [],
+   "end": "5.800",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "dry"
+   ]
+  },
+  {
+   "begin": "5.800",
+   "children": [],
+   "end": "6.200",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "6.200",
+   "children": [],
+   "end": "6.200",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "6.200",
+   "children": [],
+   "end": "6.600",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "can"
+   ]
+  },
+  {
+   "begin": "6.600",
+   "children": [],
+   "end": "6.800",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "play"
+   ]
+  }
+ ]
+}

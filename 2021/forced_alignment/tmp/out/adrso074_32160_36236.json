@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "angie"
+   ]
+  },
+  {
+   "begin": "0.440",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.920",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "holding"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "children": [],
+   "end": "2.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "2.360",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "plate"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "2.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "2.680",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "your"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "4.040",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  }
+ ]
+}

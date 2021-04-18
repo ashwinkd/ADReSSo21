@@ -1,5 +1,0 @@
-cookie
-jar
-has
-a
-little

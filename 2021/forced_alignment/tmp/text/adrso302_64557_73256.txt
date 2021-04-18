@@ -1,4 +1,0 @@
-then
-i
-find
-patricia

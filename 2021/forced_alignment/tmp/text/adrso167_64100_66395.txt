@@ -1,4 +1,0 @@
-cupboard
-door
-is
-open

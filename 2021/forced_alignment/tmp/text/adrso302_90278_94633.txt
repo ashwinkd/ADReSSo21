@@ -1,4 +1,0 @@
-out
-the
-window
-wells

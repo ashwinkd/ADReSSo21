@@ -1,8 +1,0 @@
-kitchen
-door
-in
-a
-cabinet
-door
-is
-open

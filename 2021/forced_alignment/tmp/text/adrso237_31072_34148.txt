@@ -1,4 +1,0 @@
-distance
-to
-walk
-vehicle

@@ -1,4 +1,0 @@
-architecture
-schools
-falling
-over

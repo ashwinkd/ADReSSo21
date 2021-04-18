@@ -1,5 +1,0 @@
-cookie
-jars
-full
-of
-cookies

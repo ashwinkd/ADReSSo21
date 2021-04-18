@@ -1,4 +1,0 @@
-get
-directed
-to
-cook

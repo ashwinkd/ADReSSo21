@@ -1,7 +1,0 @@
-sin
-cos
-in
-front
-of
-a
-window

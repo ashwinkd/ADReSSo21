@@ -1,5 +1,0 @@
-i
-send
-message
-to
-mother

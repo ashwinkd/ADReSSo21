@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.160",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "0.520",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "mothers"
+   ]
+  },
+  {
+   "begin": "0.520",
+   "children": [],
+   "end": "0.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.560",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "2.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.000",
+   "children": [],
+   "end": "2.520",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.520",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "spilling"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.720",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

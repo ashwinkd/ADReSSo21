@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "3.720",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "where"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.600",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "was"
+   ]
+  },
+  {
+   "begin": "4.600",
+   "children": [],
+   "end": "4.920",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "4.920",
+   "children": [],
+   "end": "5.240",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  }
+ ]
+}

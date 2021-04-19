@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.320",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "another"
+   ]
+  },
+  {
+   "begin": "0.320",
+   "children": [],
+   "end": "0.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "room"
+   ]
+  },
+  {
+   "begin": "0.320",
+   "children": [],
+   "end": "0.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "0.800",
+   "children": [],
+   "end": "1.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "2.160",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.240",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "3.000",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.800",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "3.800",
+   "children": [],
+   "end": "4.840",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "also"
+   ]
+  },
+  {
+   "begin": "4.840",
+   "children": [],
+   "end": "7.000",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  }
+ ]
+}

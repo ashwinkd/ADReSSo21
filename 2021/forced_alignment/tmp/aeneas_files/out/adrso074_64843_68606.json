@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "cookies"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "0.720",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "0.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.600",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "jar"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "2.160",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "2.160",
+   "children": [],
+   "end": "2.800",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.400",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "lid"
+   ]
+  },
+  {
+   "begin": "3.400",
+   "children": [],
+   "end": "3.760",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "off"
+   ]
+  }
+ ]
+}

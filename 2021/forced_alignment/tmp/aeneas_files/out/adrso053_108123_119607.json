@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.200",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "door"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "6.960",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "edge"
+   ]
+  },
+  {
+   "begin": "6.960",
+   "children": [],
+   "end": "7.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "guards"
+   ]
+  },
+  {
+   "begin": "7.800",
+   "children": [],
+   "end": "8.560",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  },
+  {
+   "begin": "8.560",
+   "children": [],
+   "end": "10.120",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "10.120",
+   "children": [],
+   "end": "10.440",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "10.440",
+   "children": [],
+   "end": "11.480",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "cupboards"
+   ]
+  }
+ ]
+}

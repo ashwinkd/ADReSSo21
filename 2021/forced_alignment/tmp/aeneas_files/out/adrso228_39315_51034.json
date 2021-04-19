@@ -1,0 +1,164 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.320",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "4.320",
+   "children": [],
+   "end": "5.160",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "gm"
+   ]
+  },
+  {
+   "begin": "5.160",
+   "children": [],
+   "end": "5.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "sites"
+   ]
+  },
+  {
+   "begin": "5.800",
+   "children": [],
+   "end": "6.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "are"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "6.400",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.400",
+   "children": [],
+   "end": "6.560",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  },
+  {
+   "begin": "6.560",
+   "children": [],
+   "end": "6.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "or"
+   ]
+  },
+  {
+   "begin": "6.720",
+   "children": [],
+   "end": "6.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "green"
+   ]
+  },
+  {
+   "begin": "6.760",
+   "children": [],
+   "end": "8.280",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "grass"
+   ]
+  },
+  {
+   "begin": "8.280",
+   "children": [],
+   "end": "9.840",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "bushes"
+   ]
+  },
+  {
+   "begin": "9.840",
+   "children": [],
+   "end": "10.240",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "window"
+   ]
+  },
+  {
+   "begin": "10.240",
+   "children": [],
+   "end": "10.360",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "from"
+   ]
+  },
+  {
+   "begin": "10.360",
+   "children": [],
+   "end": "10.480",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "10.480",
+   "children": [],
+   "end": "10.960",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "house"
+   ]
+  },
+  {
+   "begin": "10.960",
+   "children": [],
+   "end": "11.160",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "11.160",
+   "children": [],
+   "end": "11.680",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "drapes"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "falling"
+   ]
+  },
+  {
+   "begin": "0.520",
+   "children": [],
+   "end": "1.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "off"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "2.760",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "ladder"
+   ]
+  }
+ ]
+}

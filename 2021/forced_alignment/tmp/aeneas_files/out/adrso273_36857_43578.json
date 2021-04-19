@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "2.320",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "waters"
+   ]
+  },
+  {
+   "begin": "2.320",
+   "children": [],
+   "end": "4.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "falling"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "5.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "down"
+   ]
+  },
+  {
+   "begin": "5.120",
+   "children": [],
+   "end": "5.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "onto"
+   ]
+  },
+  {
+   "begin": "5.680",
+   "children": [],
+   "end": "6.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.000",
+   "children": [],
+   "end": "6.720",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "floor"
+   ]
+  }
+ ]
+}

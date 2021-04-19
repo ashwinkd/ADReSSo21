@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.520",
+   "children": [],
+   "end": "1.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "azealia"
+   ]
+  },
+  {
+   "begin": "1.240",
+   "children": [],
+   "end": "1.600",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "1.920",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "young"
+   ]
+  },
+  {
+   "begin": "1.920",
+   "children": [],
+   "end": "2.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  }
+ ]
+}

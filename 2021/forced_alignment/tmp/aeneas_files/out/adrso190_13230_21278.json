@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.680",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "running"
+   ]
+  },
+  {
+   "begin": "4.680",
+   "children": [],
+   "end": "7.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "7.120",
+   "children": [],
+   "end": "8.040",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "shoes"
+   ]
+  }
+ ]
+}

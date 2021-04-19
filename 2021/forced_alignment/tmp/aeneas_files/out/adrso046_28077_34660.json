@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "do"
+   ]
+  },
+  {
+   "begin": "1.000",
+   "children": [],
+   "end": "5.000",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "5.000",
+   "children": [],
+   "end": "5.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "know"
+   ]
+  },
+  {
+   "begin": "5.280",
+   "children": [],
+   "end": "5.480",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "what"
+   ]
+  },
+  {
+   "begin": "5.480",
+   "children": [],
+   "end": "5.880",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "5.880",
+   "children": [],
+   "end": "6.560",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  }
+ ]
+}

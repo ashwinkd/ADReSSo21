@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.200",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "it"
+   ]
+  },
+  {
+   "begin": "0.200",
+   "children": [],
+   "end": "0.560",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "doesnt"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "0.840",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "look"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "looks"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "2.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "unhappy"
+   ]
+  }
+ ]
+}

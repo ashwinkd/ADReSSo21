@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "did"
+   ]
+  },
+  {
+   "begin": "1.520",
+   "children": [],
+   "end": "1.760",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "3.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "say"
+   ]
+  },
+  {
+   "begin": "3.560",
+   "children": [],
+   "end": "5.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "cabinet"
+   ]
+  },
+  {
+   "begin": "5.040",
+   "children": [],
+   "end": "6.560",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "doors"
+   ]
+  }
+ ]
+}

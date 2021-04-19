@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "two"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "6.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "cups"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "6.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "6.280",
+   "children": [],
+   "end": "8.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "saucer"
+   ]
+  },
+  {
+   "begin": "8.040",
+   "children": [],
+   "end": "8.960",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "8.960",
+   "children": [],
+   "end": "10.280",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "plate"
+   ]
+  }
+ ]
+}

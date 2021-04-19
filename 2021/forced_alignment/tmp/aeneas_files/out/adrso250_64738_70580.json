@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.160",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.160",
+   "children": [],
+   "end": "0.720",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "curtains"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "2.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "cut"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "4.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "different"
+   ]
+  },
+  {
+   "begin": "4.640",
+   "children": [],
+   "end": "5.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "akinator"
+   ]
+  }
+ ]
+}

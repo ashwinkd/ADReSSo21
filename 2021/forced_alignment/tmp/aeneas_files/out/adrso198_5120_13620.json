@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "elena"
+   ]
+  },
+  {
+   "begin": "4.600",
+   "children": [],
+   "end": "6.440",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "elaine"
+   ]
+  },
+  {
+   "begin": "6.440",
+   "children": [],
+   "end": "7.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "7.240",
+   "children": [],
+   "end": "7.680",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "7.680",
+   "children": [],
+   "end": "8.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "children"
+   ]
+  }
+ ]
+}

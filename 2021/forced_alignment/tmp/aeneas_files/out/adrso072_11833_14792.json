@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.800",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "2.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "2.360",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "are"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "2.440",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "2.920",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "sale"
+   ]
+  }
+ ]
+}

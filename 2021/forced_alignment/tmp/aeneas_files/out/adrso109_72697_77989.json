@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.920",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "1.840",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.320",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "2.320",
+   "children": [],
+   "end": "2.800",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "spilled"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.600",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "4.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "terribly"
+   ]
+  },
+  {
+   "begin": "4.320",
+   "children": [],
+   "end": "5.280",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "bed"
+   ]
+  }
+ ]
+}

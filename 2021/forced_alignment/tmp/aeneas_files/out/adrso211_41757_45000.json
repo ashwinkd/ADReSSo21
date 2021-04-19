@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "poor"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.120",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "0.120",
+   "children": [],
+   "end": "0.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "0.640",
+   "children": [],
+   "end": "1.160",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "still"
+   ]
+  },
+  {
+   "begin": "1.160",
+   "children": [],
+   "end": "1.400",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.760",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.480",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "2.480",
+   "children": [],
+   "end": "3.240",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "runner"
+   ]
+  }
+ ]
+}

@@ -19,4 +19,4 @@ class Start:
                                                                           'audio',
                                                                           'transcript']].iterrows():
             for audio_file, transcript in zip(segment_wav(speaker, segments, audio), transcript):
-                align(audio_file, transcript)
+                align_using_penn(audio_file, transcript)

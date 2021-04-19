@@ -1,0 +1,174 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.360",
+   "children": [],
+   "end": "0.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "boys"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.040",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.640",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "1.800",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "1.800",
+   "children": [],
+   "end": "2.600",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "stool"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "2.680",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "2.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.680",
+   "children": [],
+   "end": "3.120",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "little"
+   ]
+  },
+  {
+   "begin": "3.120",
+   "children": [],
+   "end": "3.440",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "3.440",
+   "children": [],
+   "end": "3.960",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "standing"
+   ]
+  },
+  {
+   "begin": "3.960",
+   "children": [],
+   "end": "4.160",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "up"
+   ]
+  },
+  {
+   "begin": "4.160",
+   "children": [],
+   "end": "4.680",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "holding"
+   ]
+  },
+  {
+   "begin": "4.680",
+   "children": [],
+   "end": "4.920",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "4.920",
+   "children": [],
+   "end": "5.200",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  },
+  {
+   "begin": "5.200",
+   "children": [],
+   "end": "5.480",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "for"
+   ]
+  },
+  {
+   "begin": "5.480",
+   "children": [],
+   "end": "5.760",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "cooking"
+   ]
+  }
+ ]
+}

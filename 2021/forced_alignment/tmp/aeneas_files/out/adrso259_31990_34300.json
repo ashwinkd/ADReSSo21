@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.880",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.880",
+   "children": [],
+   "end": "1.400",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "stool"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "1.600",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "2.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "chipping"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "play"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "8.760",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "stand"
+   ]
+  },
+  {
+   "begin": "8.760",
+   "children": [],
+   "end": "9.200",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "9.200",
+   "children": [],
+   "end": "9.680",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "9.680",
+   "children": [],
+   "end": "11.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  }
+ ]
+}

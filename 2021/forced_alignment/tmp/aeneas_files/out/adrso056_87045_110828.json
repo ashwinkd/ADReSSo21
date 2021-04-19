@@ -1,0 +1,154 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "14.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "hobart"
+   ]
+  },
+  {
+   "begin": "14.040",
+   "children": [],
+   "end": "14.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "14.920",
+   "children": [],
+   "end": "16.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "when"
+   ]
+  },
+  {
+   "begin": "16.400",
+   "children": [],
+   "end": "16.880",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "16.880",
+   "children": [],
+   "end": "17.320",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "see"
+   ]
+  },
+  {
+   "begin": "17.320",
+   "children": [],
+   "end": "17.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "through"
+   ]
+  },
+  {
+   "begin": "17.760",
+   "children": [],
+   "end": "17.800",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "17.800",
+   "children": [],
+   "end": "18.200",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "kitchen"
+   ]
+  },
+  {
+   "begin": "18.200",
+   "children": [],
+   "end": "18.600",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "right"
+   ]
+  },
+  {
+   "begin": "18.600",
+   "children": [],
+   "end": "18.760",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "now"
+   ]
+  },
+  {
+   "begin": "18.760",
+   "children": [],
+   "end": "21.400",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "all"
+   ]
+  },
+  {
+   "begin": "21.400",
+   "children": [],
+   "end": "21.760",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "21.760",
+   "children": [],
+   "end": "22.720",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "styles"
+   ]
+  },
+  {
+   "begin": "22.720",
+   "children": [],
+   "end": "23.240",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "or"
+   ]
+  },
+  {
+   "begin": "23.240",
+   "children": [],
+   "end": "23.760",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "not"
+   ]
+  }
+ ]
+}

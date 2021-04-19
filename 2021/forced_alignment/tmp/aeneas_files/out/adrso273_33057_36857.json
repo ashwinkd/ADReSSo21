@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.400",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "1.400",
+   "children": [],
+   "end": "2.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "meanwhile"
+   ]
+  },
+  {
+   "begin": "2.040",
+   "children": [],
+   "end": "2.360",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "2.360",
+   "children": [],
+   "end": "2.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "drying"
+   ]
+  },
+  {
+   "begin": "2.840",
+   "children": [],
+   "end": "2.920",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.800",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

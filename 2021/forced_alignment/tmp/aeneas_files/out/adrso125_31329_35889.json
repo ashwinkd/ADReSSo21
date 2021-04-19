@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "2.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "spilled"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "2.600",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "water"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "2.800",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "all"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "2.800",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.000",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "3.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "place"
+   ]
+  },
+  {
+   "begin": "3.760",
+   "children": [],
+   "end": "3.880",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "just"
+   ]
+  },
+  {
+   "begin": "3.880",
+   "children": [],
+   "end": "4.560",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "think"
+   ]
+  }
+ ]
+}

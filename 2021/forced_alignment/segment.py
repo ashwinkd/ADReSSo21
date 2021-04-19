@@ -3,6 +3,9 @@ from global_var import *
 
 def segment_wav(speaker, segments, audio):
     segmented_audio = []
+    if system_type == "windows":
+        audio = audio.replace('/mnt/f', "F:")
+        audio = audio.replace('/', '\\')
     audio_file = AudioSegment.from_wav(audio)
     audio_file = audio_file.set_frame_rate(16000)
     for begin, end in segments:

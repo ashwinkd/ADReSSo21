@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.120",
+   "children": [],
+   "end": "7.480",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "grass"
+   ]
+  },
+  {
+   "begin": "7.480",
+   "children": [],
+   "end": "8.400",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "8.400",
+   "children": [],
+   "end": "9.080",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "growing"
+   ]
+  }
+ ]
+}

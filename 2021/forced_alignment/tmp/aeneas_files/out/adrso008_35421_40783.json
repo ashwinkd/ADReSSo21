@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.280",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "other"
+   ]
+  },
+  {
+   "begin": "0.280",
+   "children": [],
+   "end": "1.000",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "than"
+   ]
+  },
+  {
+   "begin": "1.000",
+   "children": [],
+   "end": "1.120",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "2.440",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "it"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "3.560",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "seems"
+   ]
+  },
+  {
+   "begin": "3.560",
+   "children": [],
+   "end": "4.400",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "very"
+   ]
+  },
+  {
+   "begin": "4.400",
+   "children": [],
+   "end": "4.840",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "sweet"
+   ]
+  },
+  {
+   "begin": "4.840",
+   "children": [],
+   "end": "5.360",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "home"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.320",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "washing"
+   ]
+  },
+  {
+   "begin": "1.320",
+   "children": [],
+   "end": "2.080",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

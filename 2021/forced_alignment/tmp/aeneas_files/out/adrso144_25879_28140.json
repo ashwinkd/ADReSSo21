@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.840",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "1.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "2.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "watching"
+   ]
+  }
+ ]
+}

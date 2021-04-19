@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "school"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "1.760",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "time"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "1.880",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "2.760",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "fall"
+   ]
+  }
+ ]
+}

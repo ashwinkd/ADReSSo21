@@ -1,0 +1,3 @@
+cookies
+window
+curtain

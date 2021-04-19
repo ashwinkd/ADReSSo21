@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "doors"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "2.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "3.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "by"
+   ]
+  },
+  {
+   "begin": "3.080",
+   "children": [],
+   "end": "3.480",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "cab"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,154 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "4.440",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "say"
+   ]
+  },
+  {
+   "begin": "4.440",
+   "children": [],
+   "end": "6.320",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "yeah"
+   ]
+  },
+  {
+   "begin": "6.320",
+   "children": [],
+   "end": "7.440",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "curtains"
+   ]
+  },
+  {
+   "begin": "7.440",
+   "children": [],
+   "end": "7.760",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "seem"
+   ]
+  },
+  {
+   "begin": "7.760",
+   "children": [],
+   "end": "7.880",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "7.880",
+   "children": [],
+   "end": "8.320",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "be"
+   ]
+  },
+  {
+   "begin": "8.320",
+   "children": [],
+   "end": "8.600",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "shaking"
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "9.080",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "from"
+   ]
+  },
+  {
+   "begin": "9.080",
+   "children": [],
+   "end": "11.280",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "11.280",
+   "children": [],
+   "end": "13.920",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "13.920",
+   "children": [],
+   "end": "14.240",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "air"
+   ]
+  },
+  {
+   "begin": "14.240",
+   "children": [],
+   "end": "14.440",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "thats"
+   ]
+  },
+  {
+   "begin": "14.440",
+   "children": [],
+   "end": "14.880",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "blowing"
+   ]
+  },
+  {
+   "begin": "14.880",
+   "children": [],
+   "end": "15.520",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "because"
+   ]
+  },
+  {
+   "begin": "0.600",
+   "children": [],
+   "end": "0.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "he"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "2.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "3.040",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "got"
+   ]
+  },
+  {
+   "begin": "3.040",
+   "children": [],
+   "end": "3.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "3.520",
+   "children": [],
+   "end": "4.280",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "take"
+   ]
+  },
+  {
+   "begin": "4.280",
+   "children": [],
+   "end": "4.840",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "my"
+   ]
+  },
+  {
+   "begin": "4.840",
+   "children": [],
+   "end": "5.440",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "phone"
+   ]
+  },
+  {
+   "begin": "5.440",
+   "children": [],
+   "end": "6.440",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "down"
+   ]
+  }
+ ]
+}

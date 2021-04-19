@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.720",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "good"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.040",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "way"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "1.080",
+   "children": [],
+   "end": "1.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "break"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "1.560",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "his"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "2.320",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "neck"
+   ]
+  }
+ ]
+}

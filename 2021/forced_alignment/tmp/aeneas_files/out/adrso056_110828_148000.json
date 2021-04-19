@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "14.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "14.440",
+   "children": [],
+   "end": "16.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "16.120",
+   "children": [],
+   "end": "17.520",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "kitchen"
+   ]
+  },
+  {
+   "begin": "17.520",
+   "children": [],
+   "end": "21.280",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "was"
+   ]
+  },
+  {
+   "begin": "21.280",
+   "children": [],
+   "end": "21.800",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "21.800",
+   "children": [],
+   "end": "22.000",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "same"
+   ]
+  },
+  {
+   "begin": "22.000",
+   "children": [],
+   "end": "26.760",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "type"
+   ]
+  },
+  {
+   "begin": "26.760",
+   "children": [],
+   "end": "32.240",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "32.240",
+   "children": [],
+   "end": "37.160",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "way"
+   ]
+  }
+ ]
+}

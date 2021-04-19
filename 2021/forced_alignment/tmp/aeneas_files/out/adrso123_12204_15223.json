@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.360",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "drying"
+   ]
+  },
+  {
+   "begin": "1.360",
+   "children": [],
+   "end": "1.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.880",
+   "children": [],
+   "end": "3.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

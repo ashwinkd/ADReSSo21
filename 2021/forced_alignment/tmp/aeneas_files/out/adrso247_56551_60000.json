@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.120",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "0.120",
+   "children": [],
+   "end": "0.720",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "looking"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.160",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "at"
+   ]
+  },
+  {
+   "begin": "1.160",
+   "children": [],
+   "end": "1.320",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "looks"
+   ]
+  },
+  {
+   "begin": "1.320",
+   "children": [],
+   "end": "1.600",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "1.600",
+   "children": [],
+   "end": "1.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "1.760",
+   "children": [],
+   "end": "2.520",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "watching"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "3.440",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "tv"
+   ]
+  }
+ ]
+}

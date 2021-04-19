@@ -1,0 +1,74 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "4.960",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "boys"
+   ]
+  },
+  {
+   "begin": "4.960",
+   "children": [],
+   "end": "5.560",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "like"
+   ]
+  },
+  {
+   "begin": "5.560",
+   "children": [],
+   "end": "6.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "short"
+   ]
+  },
+  {
+   "begin": "6.000",
+   "children": [],
+   "end": "6.480",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "hair"
+   ]
+  },
+  {
+   "begin": "6.480",
+   "children": [],
+   "end": "7.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "combed"
+   ]
+  },
+  {
+   "begin": "7.840",
+   "children": [],
+   "end": "8.240",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "straight"
+   ]
+  },
+  {
+   "begin": "8.240",
+   "children": [],
+   "end": "9.480",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "back"
+   ]
+  }
+ ]
+}

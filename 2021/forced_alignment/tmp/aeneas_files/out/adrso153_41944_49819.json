@@ -1,0 +1,24 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.600",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "toothpaste"
+   ]
+  },
+  {
+   "begin": "5.600",
+   "children": [],
+   "end": "7.840",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "cap"
+   ]
+  }
+ ]
+}

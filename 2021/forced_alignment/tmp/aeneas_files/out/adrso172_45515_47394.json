@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.040",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "curtains"
+   ]
+  },
+  {
+   "begin": "1.040",
+   "children": [],
+   "end": "1.280",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "with"
+   ]
+  },
+  {
+   "begin": "1.280",
+   "children": [],
+   "end": "1.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "tie"
+   ]
+  },
+  {
+   "begin": "1.640",
+   "children": [],
+   "end": "1.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dye"
+   ]
+  }
+ ]
+}

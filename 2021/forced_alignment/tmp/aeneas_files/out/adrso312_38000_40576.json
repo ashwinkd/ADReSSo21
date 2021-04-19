@@ -1,0 +1,34 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "cupboard"
+   ]
+  },
+  {
+   "begin": "1.560",
+   "children": [],
+   "end": "2.240",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "doors"
+   ]
+  },
+  {
+   "begin": "2.240",
+   "children": [],
+   "end": "2.560",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "open"
+   ]
+  }
+ ]
+}

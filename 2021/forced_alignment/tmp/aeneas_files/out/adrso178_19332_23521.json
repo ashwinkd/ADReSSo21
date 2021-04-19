@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.840",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "womans"
+   ]
+  },
+  {
+   "begin": "0.840",
+   "children": [],
+   "end": "3.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "wiping"
+   ]
+  },
+  {
+   "begin": "3.120",
+   "children": [],
+   "end": "3.720",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.720",
+   "children": [],
+   "end": "4.160",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

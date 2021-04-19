@@ -1,0 +1,104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "1.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "watching"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.320",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "them"
+   ]
+  },
+  {
+   "begin": "1.320",
+   "children": [],
+   "end": "1.480",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "1.680",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "1.680",
+   "children": [],
+   "end": "1.840",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "2.120",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "2.960",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "breaking"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "3.480",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "her"
+   ]
+  },
+  {
+   "begin": "3.480",
+   "children": [],
+   "end": "3.960",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  }
+ ]
+}

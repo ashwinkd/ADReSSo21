@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "0.560",
+   "children": [],
+   "end": "1.120",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "little"
+   ]
+  },
+  {
+   "begin": "1.120",
+   "children": [],
+   "end": "1.720",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "girl"
+   ]
+  },
+  {
+   "begin": "1.720",
+   "children": [],
+   "end": "2.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "who"
+   ]
+  },
+  {
+   "begin": "2.120",
+   "children": [],
+   "end": "2.520",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "thinks"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.760",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "shes"
+   ]
+  },
+  {
+   "begin": "2.760",
+   "children": [],
+   "end": "3.120",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "safe"
+   ]
+  },
+  {
+   "begin": "3.120",
+   "children": [],
+   "end": "3.440",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "enough"
+   ]
+  }
+ ]
+}

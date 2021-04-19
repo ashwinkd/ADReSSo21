@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.560",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.560",
+   "children": [],
+   "end": "2.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "she"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "4.640",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "4.640",
+   "children": [],
+   "end": "5.560",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "sex"
+   ]
+  },
+  {
+   "begin": "5.560",
+   "children": [],
+   "end": "6.040",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "6.920",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "play"
+   ]
+  }
+ ]
+}

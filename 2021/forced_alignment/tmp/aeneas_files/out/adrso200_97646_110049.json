@@ -1,0 +1,144 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "theres"
+   ]
+  },
+  {
+   "begin": "0.440",
+   "children": [],
+   "end": "0.920",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "no"
+   ]
+  },
+  {
+   "begin": "0.920",
+   "children": [],
+   "end": "2.280",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "handles"
+   ]
+  },
+  {
+   "begin": "2.280",
+   "children": [],
+   "end": "2.600",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "2.600",
+   "children": [],
+   "end": "3.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.000",
+   "children": [],
+   "end": "4.520",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "how"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "5.120",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "5.120",
+   "children": [],
+   "end": "7.680",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "part"
+   ]
+  },
+  {
+   "begin": "7.680",
+   "children": [],
+   "end": "8.080",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "of"
+   ]
+  },
+  {
+   "begin": "8.080",
+   "children": [],
+   "end": "9.840",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "9.840",
+   "children": [],
+   "end": "10.360",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "how"
+   ]
+  },
+  {
+   "begin": "10.360",
+   "children": [],
+   "end": "10.720",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "many"
+   ]
+  },
+  {
+   "begin": "10.720",
+   "children": [],
+   "end": "11.400",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "steps"
+   ]
+  },
+  {
+   "begin": "11.400",
+   "children": [],
+   "end": "12.400",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "counter"
+   ]
+  }
+ ]
+}

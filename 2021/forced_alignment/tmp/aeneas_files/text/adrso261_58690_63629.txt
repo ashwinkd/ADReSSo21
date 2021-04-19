@@ -1,0 +1,4 @@
+kids
+phone
+off
+bluetooth

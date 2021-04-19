@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "1.440",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "woman"
+   ]
+  },
+  {
+   "begin": "1.440",
+   "children": [],
+   "end": "2.640",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "2.640",
+   "children": [],
+   "end": "3.120",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "porcelain"
+   ]
+  },
+  {
+   "begin": "3.120",
+   "children": [],
+   "end": "19.240",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  }
+ ]
+}

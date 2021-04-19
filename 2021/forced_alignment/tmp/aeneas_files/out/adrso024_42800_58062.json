@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "5.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "how"
+   ]
+  },
+  {
+   "begin": "5.000",
+   "children": [],
+   "end": "8.440",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "many"
+   ]
+  },
+  {
+   "begin": "8.440",
+   "children": [],
+   "end": "9.240",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "way"
+   ]
+  },
+  {
+   "begin": "9.240",
+   "children": [],
+   "end": "13.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "housewife"
+   ]
+  },
+  {
+   "begin": "13.840",
+   "children": [],
+   "end": "14.280",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "14.280",
+   "children": [],
+   "end": "15.240",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "kitchen"
+   ]
+  }
+ ]
+}

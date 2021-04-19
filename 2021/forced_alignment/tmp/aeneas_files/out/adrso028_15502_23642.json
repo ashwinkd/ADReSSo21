@@ -1,0 +1,44 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "6.080",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "cup"
+   ]
+  },
+  {
+   "begin": "6.080",
+   "children": [],
+   "end": "6.440",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "6.440",
+   "children": [],
+   "end": "7.000",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "saucer"
+   ]
+  },
+  {
+   "begin": "7.000",
+   "children": [],
+   "end": "8.120",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "set"
+   ]
+  }
+ ]
+}

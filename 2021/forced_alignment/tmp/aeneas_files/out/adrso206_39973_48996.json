@@ -1,0 +1,54 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.200",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "2.200",
+   "children": [],
+   "end": "5.800",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "think"
+   ]
+  },
+  {
+   "begin": "5.800",
+   "children": [],
+   "end": "6.080",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "6.080",
+   "children": [],
+   "end": "7.240",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "7.240",
+   "children": [],
+   "end": "9.000",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "jar"
+   ]
+  }
+ ]
+}

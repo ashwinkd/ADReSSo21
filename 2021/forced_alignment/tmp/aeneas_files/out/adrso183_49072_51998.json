@@ -1,0 +1,64 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.000",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "you"
+   ]
+  },
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "look"
+   ]
+  },
+  {
+   "begin": "0.200",
+   "children": [],
+   "end": "0.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "odd"
+   ]
+  },
+  {
+   "begin": "0.440",
+   "children": [],
+   "end": "0.680",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "on"
+   ]
+  },
+  {
+   "begin": "0.680",
+   "children": [],
+   "end": "1.480",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "2.920",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "driveway"
+   ]
+  }
+ ]
+}

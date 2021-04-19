@@ -1,0 +1,124 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.720",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "butters"
+   ]
+  },
+  {
+   "begin": "0.720",
+   "children": [],
+   "end": "1.360",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "doing"
+   ]
+  },
+  {
+   "begin": "1.360",
+   "children": [],
+   "end": "1.480",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.480",
+   "children": [],
+   "end": "1.840",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "dishes"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "1.840",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "1.840",
+   "children": [],
+   "end": "1.960",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "1.960",
+   "children": [],
+   "end": "2.400",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "sink"
+   ]
+  },
+  {
+   "begin": "2.400",
+   "children": [],
+   "end": "2.440",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.440",
+   "children": [],
+   "end": "2.920",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "this"
+   ]
+  },
+  {
+   "begin": "2.920",
+   "children": [],
+   "end": "2.960",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "week"
+   ]
+  },
+  {
+   "begin": "2.960",
+   "children": [],
+   "end": "3.600",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "3.600",
+   "children": [],
+   "end": "4.320",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "over"
+   ]
+  }
+ ]
+}

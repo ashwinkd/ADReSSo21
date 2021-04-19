@@ -1,0 +1,84 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "2.520",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "and"
+   ]
+  },
+  {
+   "begin": "2.520",
+   "children": [],
+   "end": "2.880",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "i"
+   ]
+  },
+  {
+   "begin": "2.880",
+   "children": [],
+   "end": "3.440",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "think"
+   ]
+  },
+  {
+   "begin": "3.440",
+   "children": [],
+   "end": "4.200",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "that"
+   ]
+  },
+  {
+   "begin": "4.200",
+   "children": [],
+   "end": "5.120",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "hell"
+   ]
+  },
+  {
+   "begin": "5.120",
+   "children": [],
+   "end": "5.560",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "lose"
+   ]
+  },
+  {
+   "begin": "5.560",
+   "children": [],
+   "end": "6.040",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "his"
+   ]
+  },
+  {
+   "begin": "6.040",
+   "children": [],
+   "end": "6.520",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "cookies"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000",
+   "children": [],
+   "end": "0.480",
+   "id": "f000001",
+   "language": "en",
+   "lines": [
+    "oh"
+   ]
+  },
+  {
+   "begin": "0.480",
+   "children": [],
+   "end": "1.200",
+   "id": "f000002",
+   "language": "en",
+   "lines": [
+    "he"
+   ]
+  },
+  {
+   "begin": "1.200",
+   "children": [],
+   "end": "2.800",
+   "id": "f000003",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "2.800",
+   "children": [],
+   "end": "3.320",
+   "id": "f000004",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "3.320",
+   "children": [],
+   "end": "4.240",
+   "id": "f000005",
+   "language": "en",
+   "lines": [
+    "little"
+   ]
+  },
+  {
+   "begin": "4.240",
+   "children": [],
+   "end": "4.520",
+   "id": "f000006",
+   "language": "en",
+   "lines": [
+    "boy"
+   ]
+  },
+  {
+   "begin": "4.520",
+   "children": [],
+   "end": "7.120",
+   "id": "f000007",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "7.120",
+   "children": [],
+   "end": "7.760",
+   "id": "f000008",
+   "language": "en",
+   "lines": [
+    "has"
+   ]
+  },
+  {
+   "begin": "7.760",
+   "children": [],
+   "end": "8.480",
+   "id": "f000009",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "8.480",
+   "children": [],
+   "end": "8.600",
+   "id": "f000010",
+   "language": "en",
+   "lines": [
+    "a"
+   ]
+  },
+  {
+   "begin": "8.600",
+   "children": [],
+   "end": "8.760",
+   "id": "f000011",
+   "language": "en",
+   "lines": [
+    "cookie"
+   ]
+  },
+  {
+   "begin": "8.760",
+   "children": [],
+   "end": "8.800",
+   "id": "f000012",
+   "language": "en",
+   "lines": [
+    "in"
+   ]
+  },
+  {
+   "begin": "8.800",
+   "children": [],
+   "end": "9.240",
+   "id": "f000013",
+   "language": "en",
+   "lines": [
+    "his"
+   ]
+  },
+  {
+   "begin": "9.240",
+   "children": [],
+   "end": "10.560",
+   "id": "f000014",
+   "language": "en",
+   "lines": [
+    "hand"
+   ]
+  },
+  {
+   "begin": "10.560",
+   "children": [],
+   "end": "11.040",
+   "id": "f000015",
+   "language": "en",
+   "lines": [
+    "but"
+   ]
+  },
+  {
+   "begin": "11.040",
+   "children": [],
+   "end": "11.440",
+   "id": "f000016",
+   "language": "en",
+   "lines": [
+    "he"
+   ]
+  },
+  {
+   "begin": "11.440",
+   "children": [],
+   "end": "11.800",
+   "id": "f000017",
+   "language": "en",
+   "lines": [
+    "got"
+   ]
+  },
+  {
+   "begin": "11.800",
+   "children": [],
+   "end": "12.120",
+   "id": "f000018",
+   "language": "en",
+   "lines": [
+    "by"
+   ]
+  },
+  {
+   "begin": "12.120",
+   "children": [],
+   "end": "12.800",
+   "id": "f000019",
+   "language": "en",
+   "lines": [
+    "climbing"
+   ]
+  },
+  {
+   "begin": "12.800",
+   "children": [],
+   "end": "12.960",
+   "id": "f000020",
+   "language": "en",
+   "lines": [
+    "the"
+   ]
+  },
+  {
+   "begin": "12.960",
+   "children": [],
+   "end": "13.320",
+   "id": "f000021",
+   "language": "en",
+   "lines": [
+    "step"
+   ]
+  },
+  {
+   "begin": "13.320",
+   "children": [],
+   "end": "14.440",
+   "id": "f000022",
+   "language": "en",
+   "lines": [
+    "ladder"
+   ]
+  },
+  {
+   "begin": "14.440",
+   "children": [],
+   "end": "14.640",
+   "id": "f000023",
+   "language": "en",
+   "lines": [
+    "which"
+   ]
+  },
+  {
+   "begin": "14.640",
+   "children": [],
+   "end": "15.240",
+   "id": "f000024",
+   "language": "en",
+   "lines": [
+    "is"
+   ]
+  },
+  {
+   "begin": "15.240",
+   "children": [],
+   "end": "15.560",
+   "id": "f000025",
+   "language": "en",
+   "lines": [
+    "ready"
+   ]
+  },
+  {
+   "begin": "15.560",
+   "children": [],
+   "end": "15.720",
+   "id": "f000026",
+   "language": "en",
+   "lines": [
+    "to"
+   ]
+  },
+  {
+   "begin": "15.720",
+   "children": [],
+   "end": "16.680",
+   "id": "f000027",
+   "language": "en",
+   "lines": [
+    "fall"
+   ]
+  }
+ ]
+}

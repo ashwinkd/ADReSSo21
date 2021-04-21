@@ -7,7 +7,7 @@ for file in r.sample(audio_files, len(audio_files)):
     audio = os.path.join('.', 'data', 'audio', file)
     segment_id = audio.split(directory_seperator)[-1].split('.')[0]
     speaker_id = segment_id.split('_')[0]
-    speaker_pause = {'0-500': None, '500-1000': None, '1000-2000': None, '2000': None}
+    speaker_pause = None
     speaker_transcript = []
     aligned_filename = segment_id + ".pickle"
     if not aligned_filename in word_aligned_files:
@@ -28,24 +28,18 @@ for file in r.sample(audio_files, len(audio_files)):
         duration = end - begin
         if duration < 50:
             continue
-        elif duration < 500:
-            if speaker_pause['0-500'] is None:
-                speaker_pause['0-500'] = 0
+        else:
+            speaker_pause = {'0-500': 0, '500-1000': 0, '1000-2000': 0, '2000': 0}
+        if 50 < duration < 500:
             speaker_pause['0-500'] += 1
             speaker_transcript.append('.')
         elif duration < 1000:
-            if speaker_pause['500-1000'] is None:
-                speaker_pause['500-1000'] = 0
             speaker_pause['500-1000'] += 1
             speaker_transcript.append('..')
         elif duration < 2000:
-            if speaker_pause['1000-2000'] is None:
-                speaker_pause['1000-2000'] = 0
             speaker_pause['1000-2000'] += 1
             speaker_transcript.append('..')
         else:
-            if speaker_pause['2000'] is None:
-                speaker_pause['2000'] = 0
             speaker_pause['2000'] += 1
             speaker_transcript.append('...')
         # play(audio_file)
